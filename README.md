@@ -28,7 +28,7 @@ Where:
 - \( L \): Length of the column (m)
 
 ## 2. `steel_cylinder.py`
-This script calculates the meximum hoop stress in a **thin-walled cylinder**.
+This script calculates the maximum hoop stress in a **thin-walled cylinder**.
 
 For a **thin-walled cylinder** (wall thickness much smaller than radius), the hoop stress is:
 
